@@ -1,0 +1,5 @@
+Unseen Chip,Accuracy,F1-Score,Test Samples
+AES-T1300_power_Temp25C,0.6789,0.5732,60003
+AES-T1400_power_Temp25C,0.6421,0.547,60000
+AES-T1800_power_Temp25C,0.6609,0.5424,60003
+AES-T2000_power_Temp25C,0.6584,0.5408,60000

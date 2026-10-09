@@ -1,0 +1,19 @@
+# Ignore large generated ML files
+results/rf_model.pkl
+results/features.csv
+
+# Large generated datasets
+data/
+
+# Trained models and large feature files
+results/*.pkl
+results/*.h5
+results/*.keras
+results/*.npy
+results/features.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+.vscode/
