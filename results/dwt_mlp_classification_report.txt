@@ -1,0 +1,12 @@
+DWT + Deep MLP Classification Report
+=============================================
+              precision    recall  f1-score   support
+
+       Clean       0.84      0.25      0.38     16000
+      Trojan       0.72      0.98      0.83     32002
+
+    accuracy                           0.73     48002
+   macro avg       0.78      0.61      0.61     48002
+weighted avg       0.76      0.73      0.68     48002
+
+Accuracy: 0.7335  |  F1: 0.6805
